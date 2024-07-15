@@ -49,32 +49,28 @@
 ---
 
 ## 📱 주요기능과 스크린샷
-- ### 주요기능
-<img src = "https://cdn.discordapp.com/attachments/1013994100246192248/1082557421173624852/image.png">
 
-- ### 스크린샷
-
-|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564638304116736/simulator_screenshot_6608D6EA-F4AB-4C2E-B616-7AB65EE87870.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564638543196190/simulator_screenshot_26DB5CFA-2E28-4D54-B0B2-203CD5F53E7F.png?width=324&height=702">|<img src ="https://media.discordapp.net/attachments/1013994100246192248/1082564638820007976/simulator_screenshot_5B021C3E-83A2-4A9A-A36B-5E71AD869B78.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563388602863716/simulator_screenshot_73E3173E-761F-41E3-B670-D27B0C575EF1.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563460149301278/simulator_screenshot_5A710F46-CBF8-45B7-B898-7DABB9E25F0E.png?width=324&height=702">|
-|:----:|:----:|:-----:|:----:|:-----:|
-|`소셜 로그인 뷰`|`이메일 로그인 뷰`|`회원가입 뷰`|`스플래시 뷰`|`온보딩 뷰`|
+|![IMG_7707](https://github.com/user-attachments/assets/f7e86c56-2286-4cfe-8d85-6bd4a3d7e1bc)|![IMG_7708](https://github.com/user-attachments/assets/5dde8e11-31bb-4b72-ac81-f3475e341119)|![IMG_7709](https://github.com/user-attachments/assets/47db8c0f-f0eb-466f-9ab7-15b9cddad711)|![IMG_7694](https://github.com/user-attachments/assets/9511648d-4196-4698-a784-429c61e69b42)|
+|:----:|:----:|:-----:|:----:|
+|`소셜 로그인 뷰`|`이메일 로그인 뷰`|`회원가입 뷰`|`스플래시 뷰`|
 
 
-|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563527077802024/simulator_screenshot_1B9460DE-87F1-4CE7-9D78-FC110D2C3041.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563566919495721/simulator_screenshot_68351795-7CCB-480B-8553-48884CE5E38E.png?width=324&height=702">|<img src ="https://media.discordapp.net/attachments/1013994100246192248/1082563624113025105/simulator_screenshot_83C22661-74AD-40AE-BD35-8C77361D145C.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563643910144031/simulator_screenshot_6597E957-063D-4989-A600-A499A1404FA5.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563726093340754/simulator_screenshot_520D59EC-E46D-4A1D-9309-2CE39295C30C.png?width=324&height=702">|
-|:----:|:----:|:-----:|:----:|:-----:|
-|`주변 탭`|`내 주변 둘러보기 뷰`|`북마크 탭` <br> `(북마크한 상품)`|`북마크 탭` <br> `(북마크한 바틀샵)`|`검색 뷰`|
+|![IMG_7711](https://github.com/user-attachments/assets/42269614-269c-4c93-9a52-213dcb4be8e6)|![IMG_7695](https://github.com/user-attachments/assets/317b3bf8-2aa4-4b65-a0ed-d43b937d485b)|![IMG_7696](https://github.com/user-attachments/assets/3dccd45c-1c75-4f37-aa0b-0ced50dab68f)|![IMG_7703](https://github.com/user-attachments/assets/04e7c6e5-efb7-4209-a852-7c2f812728da)|
+|:----:|:----:|:-----:|:----:|
+|`주변 탭`|`내 주변 둘러보기 뷰`|`북마크 탭`|`검색 뷰`|
 
 
-|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564010194509844/simulator_screenshot_7F4F3EA9-61D9-4079-9178-FDDCB5E84A85.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564042683596883/simulator_screenshot_11A45A90-EAA9-4E6B-9253-6B6B17627990.png?width=324&height=702">|<img src ="https://media.discordapp.net/attachments/1013994100246192248/1082567615534354432/simulator_screenshot_C9F425C3-D628-4D13-B69C-6ADFA09A1B79.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082567657699680256/simulator_screenshot_39899917-95F1-4DFC-9B17-F8C4388F5F22.png?width=324&height=702">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563927705124955/simulator_screenshot_17678F09-8416-4158-8F52-909F5EE63FC8.png?width=324&height=702">|
-|:----:|:----:|:-----:|:----:|:-----:|
-|`바틀샵 디테일 뷰` <br> `(상품검색)`|`바틀샵 디테일 뷰` <br> `(공지사항)`|`바틀샵 큐레이션 뷰`|`매장정보 뷰`|`바틀 디테일 뷰`|
+|![IMG_7716](https://github.com/user-attachments/assets/d12119a4-2f99-4206-9f90-4aab968fb68f)|![IMG_7719](https://github.com/user-attachments/assets/d71cdfb0-97ce-4176-bf32-e57d101996a8)|![IMG_7718](https://github.com/user-attachments/assets/028388e6-4ac7-4958-9f2b-5165e07bd6d0)|![IMG_7717](https://github.com/user-attachments/assets/3d5798c8-1a0b-47f0-87b3-dda05baba64f)|
+|:----:|:----:|:-----:|:----:|
+|`바틀샵 디테일 뷰` <br> `(상품검색)`|`바틀샵 디테일 뷰` <br> `(공지사항)`|`바틀샵 큐레이션 뷰`|`매장정보 뷰`|
 
-|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564180244176897/simulator_screenshot_0535182B-69DF-4BBF-8530-722159B99397.png">|<img src = "https://user-images.githubusercontent.com/101093592/228703696-37ceea9d-1f66-41b2-b07c-bebe075a9721.png">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564232467447848/simulator_screenshot_EE368388-85AD-4402-9600-0F30BCFFE817.png">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082564265870889002/simulator_screenshot_F701E791-921F-4ECC-B71B-15B38E4B9622.png">|<img src = "https://media.discordapp.net/attachments/1013994100246192248/1082563800319938600/simulator_screenshot_F42275F4-7D2E-439E-94E8-E1E0EA007830.png">|
-|:----:|:----:|:-----:|:----:|:-----:|
-|`예약진행 뷰`|`장바구니 뷰`|`예약화면`|`예약확정 뷰`|`알림 탭`|
+|![IMG_7713](https://github.com/user-attachments/assets/1875a6dc-e7c4-4ae0-8f48-903cdf7d4691)|![IMG_7706](https://github.com/user-attachments/assets/5a7b6970-b5cf-4393-b4a2-29d1f3ee6735)|![IMG_7715](https://github.com/user-attachments/assets/d0114786-36c2-4d4c-818b-f93fb92902d7)|![IMG_7698](https://github.com/user-attachments/assets/42ceec59-ba14-4df2-9944-584e68f82386)|
+|:----:|:----:|:-----:|:----:|
+|`예약진행 뷰`|`장바구니 뷰`|`예약화면`|`알림 탭`|
 
-|<img width=324 src = "https://media.discordapp.net/attachments/1013994100246192248/1082563867995025428/simulator_screenshot_E1C10623-8371-4616-9C43-46B55EA75944.png?">|<img width=324 src = "https://media.discordapp.net/attachments/1013994100246192248/1082563868255068210/simulator_screenshot_39672B26-2F88-4DBE-A3A7-12C7A8697FF4.png?">|<img width=324 src = "https://media.discordapp.net/attachments/1013994100246192248/1082571285583900682/simulator_screenshot_78912670-900E-4B3E-BAB9-C8AD32D88535.png?">|<img width=324 src = "https://media.discordapp.net/attachments/1013994100246192248/1082574317788860436/image.png">|<img width=324 src = "https://media.discordapp.net/attachments/1013994100246192248/1082574402748682261/image.png">|
-|:----:|:----:|:-----:|:----:|:-----:|
-|`마이페이지 뷰`|`설정 뷰`|`예약내역`|`푸시알림`|`푸시알림 탭`|
+|![IMG_7699](https://github.com/user-attachments/assets/cd8f31c8-6004-426d-a58e-b3398708f5a5)|![IMG_7700](https://github.com/user-attachments/assets/8662798a-a91f-4cd0-92e3-7cc12937333b)|![IMG_7701](https://github.com/user-attachments/assets/c514fd8b-cc17-43b7-b604-c4bcf74abc2f)|![IMG_7712](https://github.com/user-attachments/assets/3c5b0eea-3c13-44ea-8507-4cebe01a7920)|
+|:----:|:----:|:-----:|:----:|
+|`마이페이지 뷰`|`설정 뷰`|`예약내역`|`번호 변경`|
 
 ---
 
@@ -94,7 +90,7 @@
 ---
 
 ## 🏅 수상내역
-|<img width = 500 src = "https://media.discordapp.net/attachments/1013994100246192248/1082577506995023872/image.png">|<img width = 500 src = "https://user-images.githubusercontent.com/101093592/223365235-da8b4ee6-fb8c-4cf0-b2cb-13a87fffab34.png">|
+|<img width="610" alt="스크린샷 2024-07-15 오후 7 32 44" src="https://github.com/user-attachments/assets/d11030cf-a697-4fc7-80f2-1b4d1932241e">|<img width="610" alt="223365235-da8b4ee6-fb8c-4cf0-b2cb-13a87fffab34" src="https://github.com/user-attachments/assets/7cb21fac-6655-4a54-a14f-a8e8e0f646f5">|
 |:---:|:---:|
 |`멋쟁이사자처럼 앱스쿨 최종프로젝트 최우수상`|`멋쟁이사자처럼 앱스쿨 해커톤 대상`|
 
